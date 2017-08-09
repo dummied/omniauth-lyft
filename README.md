@@ -1,7 +1,7 @@
-omniauth-uber
+omniauth-lyft
 ==============
 
-Uber OAuth2 Strategy for OmniAuth 1.x and supports the OAuth 2.0 server-side flow.
+Lyft OAuth2 Strategy for OmniAuth 1.x and supports the OAuth 2.0 server-side flow.
 
 You may view the Lyft API documentation [here](https://developer.lyft.com/docs/authentication).
 
